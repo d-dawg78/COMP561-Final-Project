@@ -1,6 +1,6 @@
-## Final Project for COMP 561 - Computational Biology Methods and Research at McGill University.
+#### Final Project for COMP 561 - Computational Biology Methods and Research at McGill University.
 
-## Report Introduction:
+#### Report Introduction:
 
 “Genes are rarely about inevitability, especially when it comes to humans, the brain, or behavior. They're
  about vulnerability, propensities, tendencies.”
